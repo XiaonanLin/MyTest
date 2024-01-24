@@ -9,5 +9,6 @@ public class MyTest {
         System.out.println("master test");
         System.out.println("hello git!444");
         System.out.println("hello git!444");
+        System.out.println("master test");
     }
 }
